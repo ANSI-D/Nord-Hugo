@@ -1,0 +1,16 @@
+name = "Nord-Hugo"
+license = "MIT"
+licenselink = "https://github.com/D-ANSI/blob/master/LICENSE.md"
+description = "A minimal blog theme using the Nord colorscheme"
+homepage = "https://github.com/D-ANSI/Nord-Hugo"
+tags = ["blog", "minimalistic", "minimal", "responsive", "dark", "nord"]
+features = [
+  "minimalistic blog",
+  "minimalist",
+  "nord",
+  "dark"
+]
+
+[author]
+  name = "d-ansi"
+  homepage = "https://github.com/D-ANSI"
